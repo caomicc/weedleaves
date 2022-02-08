@@ -9,4 +9,5 @@ typechain
 cache
 artifacts
 
-offering
+/offering
+/trait-layers
